@@ -9,6 +9,7 @@
 
 
 ### 사전 지식
-
- ※ HTML / CSS 기초 JavaScript 기초가 필요합니다.
+ 
+    ※ HTML / CSS 기초 JavaScript 기초가 필요합니다.
       
+  
